@@ -12,7 +12,7 @@
   - Use of cucumber report
   - Log to Log4j2
   - Scenario planning with Cucumber - Gherkin
-  - 
+    
 - **Test Scenario**:
   - Scenario Outline: Tablet Test
   -  Given navigate to website
