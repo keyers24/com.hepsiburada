@@ -1,0 +1,46 @@
+{
+  "menu": {
+    "locatorType": "xpath",
+    "locatorValue": "//span[contains(text(),'Elektronik')]"
+
+  },
+
+  "subCategory": {
+    "locatorType": "xpath",
+    "locatorValue": "  //a[normalize-space()='Bilgisayar/Tablet']"
+  },
+
+  "finalCategory": {
+    "locatorType": "xpath",
+    "locatorValue": "//a[@class='sf-ChildMenuItems-KdzkrxSVhcwDy3od0Yre item-1855']"
+  },
+
+  "brand": {
+    "locatorType": "xpath",
+    "locatorValue": "//input[@value='%s']"
+  },
+
+  "inc": {
+    "locatorType": "xpath",
+    "locatorValue": "//input[@value='13€2C2€20in€C3€A7']"
+  },
+
+  "detailPrice": {
+    "locatorType": "css",
+    "locatorValue": "div[data-test-id='default-price']"
+  },
+
+  "addToCard": {
+  "locatorType": "css",
+  "locatorValue": "button[data-test-id='addToCart']"
+  },
+
+  "basket": {
+    "locatorType": "id",
+    "locatorValue": "shoppingCart"
+  },
+  "cartPrice": {
+    "locatorType": "css",
+    "locatorValue": ".product_price_uXU6Q"
+  }
+}

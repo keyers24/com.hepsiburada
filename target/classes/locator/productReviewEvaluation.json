@@ -1,0 +1,40 @@
+{
+  "oneTrustBtn": {
+    "locatorType": "id",
+    "locatorValue": "onetrust-accept-btn-handler"
+  },
+  "myAccountBtn": {
+    "locatorType": "id",
+    "locatorValue": "myAccount"
+  },
+
+  "searchDiv": {
+    "locatorType": "xpath",
+    "locatorValue": "//div[contains(@class,'SearchBoxOld')]/div/div"
+  },
+  "searchInput": {
+    "locatorType": "xpath",
+    "locatorValue": "//div[contains(@class,'SearchBoxOld')]/div/div/div/div/div/input"
+  },
+
+  "evaluationBtn": {
+    "locatorType": "xpath",
+    "locatorValue": "//a[@class='yPPu6UogPlaotjhx1Qki']"
+  },
+  "dropdown": {
+    "locatorType": "xpath",
+    "locatorValue": "//div[@class='arrowUpOrange']"
+  },
+  "Latest": {
+    "locatorType": "xpath",
+    "locatorValue": "//div[@class='hermes-src-universal-partials-Comments-Maestro-FiltersContainer-Sort-Sort-module__dropdownItemList']//div[2]"
+  },
+  "like": {
+    "locatorType": "xpath",
+    "locatorValue": "//div[@class='paginationContentHolder']//div[1]//div[2]//div[5]//div[1]//div[1]//div[1]//div[1]//div[1]"
+  },
+  "alert": {
+    "locatorType": "xpath",
+    "locatorValue": "//span[@class='hermes-src-universal-components-ReviewCard-ReviewCard-module__thanksText'][contains(text(),'Teşekkür Ederiz.')]"
+  }
+}
